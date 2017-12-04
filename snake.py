@@ -1,6 +1,6 @@
 '''
 Snake game.
-Authors:
+Authors:Dejah, Ayo, Maya
 <insert the names of your teammates here>
 '''
 
